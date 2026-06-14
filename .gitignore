@@ -1,0 +1,7 @@
+.env
+node_modules/
+
+temp/*
+public/photos/*
+!temp/.gitkeep
+!public/photos/.gitkeep
