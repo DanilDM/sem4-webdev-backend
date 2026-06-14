@@ -12,9 +12,9 @@ REST API для проекту Flora.
  
 ## Render деплой
  
-[Backend](додати)
+[Backend](https://sem4-webdev-backend.onrender.com/api)
 
-[Swagger](додати)
+[Swagger](https://sem4-webdev-backend.onrender.com/api-docs)
 
 ## Запуск локально
  

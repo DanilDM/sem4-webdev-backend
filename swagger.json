@@ -11,7 +11,7 @@
       "description": "Local server"
     },
     {
-      "url": "https://myApp.onrender.com",
+      "url": "https://sem4-webdev-backend.onrender.com",
       "description": "Production server"
     }
   ],
